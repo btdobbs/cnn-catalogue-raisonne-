@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wikiart", "wikiart\wikiart.csproj", "{49C93C31-CBD9-4493-AFE0-325C2A10A458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C93C31-CBD9-4493-AFE0-325C2A10A458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C93C31-CBD9-4493-AFE0-325C2A10A458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C93C31-CBD9-4493-AFE0-325C2A10A458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C93C31-CBD9-4493-AFE0-325C2A10A458}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
