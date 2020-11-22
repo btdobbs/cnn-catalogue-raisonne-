@@ -1,4 +1,4 @@
-%load cm from resnet101_cm.mat or resnet18_cm.mat
+%create cm via the MATLAB confusionmat function
 class_count = 90;
 l = sum(cm,'all');
 tp = diag(cm);
